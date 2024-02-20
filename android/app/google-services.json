@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802669133460",
+    "project_id": "indiainsigth",
+    "storage_bucket": "indiainsigth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802669133460:android:b56c6420551726463abe81",
+        "android_client_info": {
+          "package_name": "com.theindiainsights.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPBqLXm71VTg7JoY3lXbhfBz2GFzGmp0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
